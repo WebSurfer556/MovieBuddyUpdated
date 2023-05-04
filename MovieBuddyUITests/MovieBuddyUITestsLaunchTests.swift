@@ -2,7 +2,11 @@
 //  MovieBuddyUITestsLaunchTests.swift
 //  MovieBuddyUITests
 //
+<<<<<<< HEAD
 //  Created by Nic Krystynak on 4/20/23.
+=======
+//  Created by Nic Krystynak on 4/19/23.
+>>>>>>> origin/main
 //
 
 import XCTest

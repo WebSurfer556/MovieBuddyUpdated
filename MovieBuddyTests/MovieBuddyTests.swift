@@ -2,14 +2,21 @@
 //  MovieBuddyTests.swift
 //  MovieBuddyTests
 //
+<<<<<<< HEAD
 //  Created by Nic Krystynak on 4/20/23.
+=======
+//  Created by Nic Krystynak on 4/19/23.
+>>>>>>> origin/main
 //
 
 import XCTest
 
 final class MovieBuddyTests: XCTestCase {
+<<<<<<< HEAD
     
     
+=======
+>>>>>>> origin/main
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
